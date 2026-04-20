@@ -1,6 +1,3 @@
-<h1 align="center"> 🛡️ YUGIOH - Jo-Ken-Po</h1>
-
-<h2 align="center"> 📖 Descrição   </h2>
 <h1 align="center"> 🛡️ YUGIOH - Jo-Ken-Po</h1> <h2 align="center"> 📖 Descrição </h2> <p align="justify"> O <strong>YUGIOH</strong> é um jogo online inspirado no clássico pedra, papel e tesoura (Jo-Ken-Po), desenvolvido com temática do universo Yu-Gi-Oh. O jogador enfrenta a máquina utilizando cartas que representam as escolhas, trazendo uma experiência simples, divertida e interativa diretamente no navegador. </p> <p align="justify"> Este projeto foi desenvolvido durante aulas da DIO (Digital Innovation One), com o objetivo de consolidar conhecimentos em desenvolvimento web, aplicando conceitos de estruturação, estilização e lógica de programação em um contexto prático e lúdico. </p>
 
 ---
